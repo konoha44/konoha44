@@ -25,11 +25,13 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+:telescope: **Data scientist** with strong experience in utilizing statistical and machine learning techniques to extract valuable insights from large data sets.
+- :seedling: Professional interests
+  - :zap: Staying up-to-date with the latest developments and advancements in the field of data science, such as new
+algorithms, tools, and techniques.
+  - :mag_right: Applying data science techniques to real-world problems and industries, such as healthcare, finance, retail, and more.
+  - :chart_with_upwards_trend:Developing and implementing machine learning models and data visualization techniques to extract insights and drive decision making.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ivan--snegirev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-snegirev/) [![Telegram Badge](https://img.shields.io/badge/konoha44-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/konoha44)
 
