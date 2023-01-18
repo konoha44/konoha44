@@ -16,4 +16,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/konoha44"
+          feed_list: "https://dev.to/feed/gautamkrishnar"
