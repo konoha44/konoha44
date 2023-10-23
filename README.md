@@ -65,5 +65,5 @@ algorithms, tools, and techniques.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/konoha44/test-3o73)
+- Medium — [Optimizing Streamlit Apps: Preventing Reruns After User Interactions in Web Browsers Using Pop-Up Windows](https://medium.com/@ivan.snegirev66/streamlit-app-optimization-preventing-reruns-with-pop-up-windows-38bae35c646d)
 <!-- BLOG-POST-LIST:END -->
